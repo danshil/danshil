@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @danshil
 - 👀 I’m interested in creating new tools and technologies for clinicians and healthcare systems.
-- 🌱 I’m currently learning NodeJS, React, and Typescript with a long term goal of building helpful tools for physicians and other primary healthcare professionals. 
-- 📖 I am reasonably proficient in HTML, CSS, JavaScript, Git, and build tools (e.g. Webpack) 
+- 🌱 I’m currently learning how to use AI to improve the speed with which I can prototype projects.
+- 📖 I would say I'm at a high-hobbyist level in HTML, CSS, JavaScript, Git, and build tools.
 - 💞️ I’m looking to collaborate on medical software development, healthcare informatics, and UX.
-- 👨‍⚕️ I'm an ER and family medicine physician with experience in hospitalist and remote/rural medicine. Outside of clinical medicine, I have experience in administration and clinical teaching.
+- 👨‍⚕️ I'm an ER physician working in an urban setting. Earlier in my career I worked as a family doctor, hospitalist, held some administration roles, and worked in rural/remote medical settings.
 - 🏋️ In my spare time (when not coding) I lift, read, and cook.
 
 :>~°
